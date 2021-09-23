@@ -39,3 +39,5 @@ fp-info-cache
 *.net
 *.dsn
 *.ses
+*-backups/
+@eaDir/
